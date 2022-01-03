@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**cappsButtercream/cappsButtercream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Gostaria de ajudar e aprender a construção de programas
+- Possivelmente testando programas
+- ainda em 2º mundo de python
+- procuro aprender mais
+- aprendendo back-end
+  <div align="center">
+ <div align="center">
+  <a href="https://github.com/cappsButtercream">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cappsButtercream&show_icons=true&themedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cappsButtercream&layout=compact&langs_count=7&theme=dark"/>
+</div>
